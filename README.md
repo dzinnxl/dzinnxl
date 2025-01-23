@@ -1,5 +1,5 @@
 ## <h1 align="center">Olá, meu nome é Deivid Araújo! 👋</h1>
-<h3 align="center">Um estudante entusiasta de Segurança Defensiva do Brasil</h3>
+<h3 align="center">Sou um Brasileiro estudante entusiasta de Segurança Defensiva e Investigação Digital</h3>
 <p align="center"> <a href="https://twitter.com/extasedeiv" target="blank"><img src="https://img.shields.io/twitter/follow/extasedeiv?logo=twitter&style=for-the-badge" alt="_azhar_ghafoor" /></a> </p>
 
 - 🔭 Atualemente estudo [Cibersegurança](https://www.cruzeirodosul.edu.br) while in the past, I have served as [Cybersecurity Researcher](https://www.comsats.edu.pk/)
